@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The accusation given by His Maiestie against the Lord Wilmot: together with the Lord Wilmots declaration of his innocency. Also a petition of the officers of the old horse to His Maiesty, in behalfe of the Lord VVilmot: with his Maiesties answer thereunto. By which it is most evident, that the Lord Wilmot is in great danger of losing his head, (if hee hath not lost it already, as some affirme) for being a suiter to his Maiesty for peace; and for being averse to the proceedings of Prince Rupert, shewing a just dislike that he, being the grand favourer of the Irish rebels should be so much countenanced, and entrusted by his Majesty with so great a power. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78619</idno>
+            <idno type="STC">Wing C2076A</idno>
+            <idno type="STC">Thomason E7_27</idno>
+            <idno type="STC">ESTC R18069</idno>
+            <idno type="EEBO-CITATION">99860337</idno>
+            <idno type="PROQUEST">99860337</idno>
+            <idno type="VID">112457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78619)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112457)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E7[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The accusation given by His Maiestie against the Lord Wilmot: together with the Lord Wilmots declaration of his innocency. Also a petition of the officers of the old horse to His Maiesty, in behalfe of the Lord VVilmot: with his Maiesties answer thereunto. By which it is most evident, that the Lord Wilmot is in great danger of losing his head, (if hee hath not lost it already, as some affirme) for being a suiter to his Maiesty for peace; and for being averse to the proceedings of Prince Rupert, shewing a just dislike that he, being the grand favourer of the Irish rebels should be so much countenanced, and entrusted by his Majesty with so great a power. Published according to order.</title>
+                  <author>Rochester, Henry Wilmot, Earl of, 1612?-1658.</author>
+                  <author>England and Wales. Army.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[2], 3, 6-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Francis Leach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 30 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes texts of the principal documents relating to charges of disloyalty against Baron Henry Wilmot, later earl of Rochester.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rochester, Henry Wilmot, --  Earl of, 1612?-1658.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112457:1"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:112457:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>THE ACCVSATION Given by His MAIESTIE Againſt the Lord Wilmot:</p>
+            <p>TOGETHER With the Lord <hi>Wilmots</hi> Declaration of his innocency.</p>
+            <p>
+               <hi>ALSO</hi> A Petition of the Officers of the old Horſe to his Maieſty, in behalfe of the Lord <hi>VVilmot:</hi> With his Maieſties Anſwer thereunto.</p>
+            <p>By which it is moſt evident, that the Lord <hi>Wilmot</hi> is in great danger of loſing his head, (if hee hath not loſt it already, as ſome affirme) for being a ſuiter to his Maieſty for Peace; and for being averſe to the pro<g ref="char:EOLhyphen"/>ceedings of Prince <hi>Rupert,</hi> ſhewing a juſt diſlike that he, being the grand favourer of the Iriſh Rebels ſhould be ſo much countenan<g ref="char:EOLhyphen"/>c<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and entruſted by his Ma<g ref="char:EOLhyphen"/>jeſty with ſo great a power.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Francis Leach,</hi> Auguſt 30 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112457:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb n="1" facs="tcp:112457:2"/>
+            <!-- PDF PAGE 20 -->
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <head>The humble Petition of your Maieſties old Officers of Horſe;</head>
+                  <opener>Humbly ſheweth,</opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>Hat whereas they have had the honour to ſerve your Majeſty under the command of the Lord <hi>Wilmot,</hi> of whoſe juſt and loyall intentions they conceive they have had ſome demonſtrations; but now to their great amazement, and almoſt diſtraction, finde him fallen into your Majeſties diſpleaſure and ſuſpition: And although they intend not to arro<g ref="char:EOLhyphen"/>gate unto themſelves a liberty of ſearching into your Majeſties deſignes, nor diſputing your commands, yet they moſt humbly begge pardon, if they beleeve it a right they owe themſelves and your Majeſties ſervice, to requeſt they may receive ſome pre<g ref="char:EOLhyphen"/>ſent light of this buſineſſe from your Majeſty, that they may not have reaſon to ſuſpect themſelves partakers of his crimes, having bin by your Majeſties order exequutors of his commands. And we hope for ſuch a ſatisfaction from your Majeſties Juſtice in this perticular as may encourage your Petitioners to goe on with the ſame zeal to your ſervice, as they have hitherto expreſ<g ref="char:EOLhyphen"/>ſed in the hazzard of their lives and fortunes, and in their prayers for your proſperity, which ſhall ever be continued by</p>
+                  <closer>
+                     <signed>Your Maieſties moſt humble &amp;c.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="response_to_petition">
+               <body>
+                  <pb n="2" facs="tcp:112457:3"/>
+                  <!-- PDF PAGE 21 -->
+                  <head>Our Anſwer to the humble Petition of the Officers of the old borſe, concerning the Lord <hi>Wilmot,</hi> preſented to Vs <date>August 8. 1644.</date>
+                  </head>
+                  <opener>
+                     <signed>CHARLES REX.</signed>
+                  </opener>
+                  <p>WEe have conſidered of your Petition, and receive it as a thing well becomming you, to expreſſe unto Vs a ſenſe of the misfortune of a perſon, who hath ſo long commanded you as the Lord <hi>Wilmot</hi> hath done, in ſo emi<g ref="char:EOLhyphen"/>nene a charge as that of Lievrenant generall of Horſe; ſince We aſſure you the occaſion We had to ſet ſo great a Marke of Our diſpleaſure, upon one ſo highly truſted and favoured by Vs, is an affection to Our ſelfe not inferiour to the greateſt which his beſt friends can conceive by the effect of it: And Wee ſhall expect that you will be kind unto Vs, in your b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>efe either of Our Ju<g ref="char:EOLhyphen"/>ſtice, or prudent care at leaſt of Our owne intereſts, as to be con<g ref="char:EOLhyphen"/>ſident of that at this ſeaſon, when the cheerfulneſſe and unanimi<g ref="char:EOLhyphen"/>ty in Our ſervice, wherewith all of you have hitherto ſo eminent<g ref="char:EOLhyphen"/>ly obliged your King, is ſo much more neceſſary then it hath bin at any time, We ſhould not have done an act that might hazzard the diſcontenting many, had We not been forced unto it by the aſſurance that it was abſolutely neceſſary to the preſervation of Vs all. And though in ſuch eaſes, wherein a Crown lyes at the ſtake upon the deciſion of battell, a ſmall ſuſpi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion is ground enough for a Prince to remove any perſon, but doubted for ſuch a truſt, whereby he had power ſo eaſily to deſtroy all; yet ſo deſirous are Wee to give full ſatisfaction unto you, whoſe merit of Vs hath bin ſuch, that We muſt ever profeſſe, no King did ever owe more to Gentlemen and Officers, that We thought fit hereunto to an<g ref="char:EOLhyphen"/>nex a Declaration of the cauſes of the Lord <hi>Wilmots</hi> removall from that truſt: being onely ſorry for this, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t we (urged by your de<g ref="char:EOLhyphen"/>ſires) publiſh more perhaps then ever We intended, of the un<g ref="char:EOLhyphen"/>faithfulneſſe
+<pb n="3" facs="tcp:112457:3"/>
+                     <!-- PDF PAGE 21 -->and ingratitude of a perſon, whom we had not only truſted ſo long and ſo far, but alſo ſo highly, and ſo many ſeverall wayes obliged, that it is a great improvement of griefe and trou<g ref="char:EOLhyphen"/>ble to Vs, that when it ſhall pleaſe God by your means to reſtore Vs to Our Rights, We can ſcarce ever hope for power to do pro<g ref="char:EOLhyphen"/>portionably to the reſt of you.</p>
+                  <closer>
+                     <dateline>Given at our Court at <hi>Buconock</hi> 
+                        <date>Aug 12. 1644.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>THat the Lord Viſcount <hi>Wilmot</hi> hath endevoured principally theſe three months laſt paſt to poſſeſſe the officers of his Ma<g ref="char:EOLhyphen"/>ieſties Army with diſvalue and contempt of his Maieſties per<g ref="char:EOLhyphen"/>ſon, and with preiudice againſt the ſincerity of his intentions for the good of his people, and endevoured (as far as in him lay) to draw men to revolt from their allegeance. And particularly, hath uſed diſcourſes and perſwaſions to this effect, and to perſons of cha<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge, power, and credit in the Army, That the King hee ſaw would put all the power into his Nephewes hands, that rather then ſuffer it they ſhould (for his part he would) make him ſub<g ref="char:EOLhyphen"/>mit to his Parliament. And to others to this effect, That the King was afraid of peace; That he was not a man ever to goe through this buſineſſe: That there was no way but one, which was, to ſet up the Prince, who had had no ſhare in the cauſe of theſe trou<g ref="char:EOLhyphen"/>bles, and that he would declare againſt thoſe about his Father, wherein all honeſt men would ſticke unto him, and put an end to all. That the ſaid Lord Viſcount <hi>VVilmot</hi> hath without his Maie<g ref="char:EOLhyphen"/>ſties knowledge ſent ſecret meſſengers of dangerous nature unto the Earle of <hi>Eſſex:</hi> particularly, it being reſolved by his Maieſty, that a private meſſage ſhould be ſent unto the Earle of <hi>Eſſex</hi> from a perſon of honour, to whom the ſaid Earle profeſſeth reſpect, in<g ref="char:EOLhyphen"/>vi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing him to ſend two perſons of moſt truſt with him to meet and conferre with the ſaid perſons of honour, and another, of whom the ſaid Earle was beleeved to have a good opinion: and the inſtructions unto the meſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nger (one who had free acceſſe
+<pb n="6" facs="tcp:112457:4"/>
+               <!-- PDF PAGE 22 -->unto the Earle of <hi>Eſſex</hi>) being punctually drawne at a private Counſell at the which the Lord <hi>VVilmott</hi> was preſent, with preciſe directions, that the meſſenger ſhould know no more the buſineſſe, or deliver any things concerning the publique, but what was ſet down by unanimous conſent at the Counſel &amp; at<g ref="char:EOLhyphen"/>teſted by the Secretaries of Sate, the ſaid L. <hi>VVilmot</hi> notwithſtan<g ref="char:EOLhyphen"/>ding deſired the ſaid Meſſenger to commend him kindly to the E. of Eſſex and tell him from him he had many good friends in the Army, that he ſhould lay hould of this opportunity, and that then they would ſhew themſelves, and that the Court ſhould not have power to hinder it or carry it as they have don, or words to this effect by which ſecret Meſſage from him being Leiutenant Generall of his Majeſties Horſe unto the Generall of the Rebells Army, he did not only forfeit his dutie and allegi<g ref="char:EOLhyphen"/>ance, but hath by giving the E. of Eſſex ſuch aſſurances, though moſt falſe of a party in his Maieſties Army and of ſuch diviſion betwixt that and the Court beene probably the cauſe of that in<g ref="char:EOLhyphen"/>ſolent returne, which the ſaid Earl hath made unto his Maieſties moſt gracious Letter which he vouchſafed to write him with his owne hand, to invite him to peace, and ſo fruſtrated the great hope which his Maieſty had raiſed to himſelfe by ſuch a letter, of ſaving the further effuſion of blood, and prouring the happi<g ref="char:EOLhyphen"/>eſt accomoda ion: whereof had there been the leaſt hope left, his Maieſtie hath declared that he would have connived at theſe, yea, if poſſible at greater Crimes.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>An Anſwere to A Declaration and Charge againſt the Lord <hi>VVllmotte.</hi>
+                  </head>
+                  <p>I doubt not but my actions, and the loſſe of what I have in his Majeſties ſervice, might ſatisfie the world of my integritie and
+<pb n="7" facs="tcp:112457:4"/>
+                     <!-- PDF PAGE 22 -->reſpect to his Majeſties perſon and dignity, If I ſhould onely inſiſt upon that; but ſince my accuſers intend to prove the con<g ref="char:EOLhyphen"/>traty by the Averment of perſons of Charge, Power, and Credit in the Army, I am confident it is a right I owe my owne Inno<g ref="char:EOLhyphen"/>cency, and Civility to men of their qualitie, wholy and abſo<g ref="char:EOLhyphen"/>lutely to referre my ſelfe to the Juſtice and Integritie of their Teſtimonies without endeavouring to aſſure the world from my ſelfe, of my owne Innocency: Though I doubt whenſoever it ſhall pleaſe the King to call me to my publique tryall, which I am promiſed will be ſpeedily, I ſhall be able to make that appeare with as much clearneſſe to the whole world, as I now finde in the private<g ref="char:punc">▪</g> ſatisfaction of my owne Conſcience. But ſince ſome perſons have thought fit to intreſt themſelves in my Iuſtifi<g ref="char:EOLhyphen"/>cation, I conceive my ſelfe obliged to ſatisfie their deſires in this generall account, for the preſent, I muſt in the firſt place re<g ref="char:EOLhyphen"/>joyce with them, that the mallice it ſelfe of my Accuſers can ſug<g ref="char:EOLhyphen"/>geſt nothing of practice to me, the height of my pretended of, fences, were they confeſt by me, or proved by them, reach no further then words, though of ſuch nature, as are as diſagreeable to my Loyalty and dutie, as they were alwayes diſtant either from my intentions or expreſſions. Till my adverſaries fin de our away to make good, as barely to accuſe: I muſt require from the Juſtice of all perſons, ſince my actions have in all points fully contradicted theſe pretended accuſations, a ſuſpenſion of judge<g ref="char:EOLhyphen"/>ment: &amp; deſire they wold not put the forged ſuggeſtions of my e<g ref="char:EOLhyphen"/>nmies, in equal ballance to the endeavours of my whole life, &amp; after hazard of it (if his Majeſty had thought ſit;) he might have found would have been ſtill continued, in as full &amp; faithfull a de<g ref="char:EOLhyphen"/>gree in his Majeſties ſervice as ever, the truth is, my affection hath alwayes inclined to peace: But I take God to witneſſe, ſuch a one as might have agreed with the honour of the King, and the hap<g ref="char:EOLhyphen"/>pineſſe of the Country, and though my intentions are not to re<g ref="char:EOLhyphen"/>criminate
+<pb n="6" facs="tcp:112457:5" rendition="simple:additions"/>
+                     <!-- PDF PAGE 23 -->
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="7" facs="tcp:112457:5"/>
+                     <!-- PDF PAGE 23 -->
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="8" facs="tcp:112457:6"/>
+                     <!-- PDF PAGE 24 -->yet in order of my owne juſtification and acquitment, I muſt take leave to ſay, I do more then fear it agrees not with the intereſt and inclinations of ſome perſons ſo fully as I could wiſh, which I take to be the principall cauſe of my preſent condition, but I have only undertaken to cleare my ſelfe, may each mans particular faults light on his owne head whoſoever ſhall abſtract the ſubſtance from the Copiouſneſſe and ſubtill Aggravations of Language, I am confident will find what ever dreſſe they may be able to put upon the ground worke of their accuſations to be barely nothing but a too violent expreſſing my Inclina<g ref="char:EOLhyphen"/>tions to Peace, whether I have ever ſought it further then my Alleagiance and dutie to his Majeſty allowed of, Or my obliga<g ref="char:EOLhyphen"/>tion to my Country, might exact from mee. I muſt referre to my publique anſwere, in the meane time I deſire and doubt not, but that all good men will be ſatisfied with this profeſſion and Pro<g ref="char:EOLhyphen"/>teſtation, that I never had a private Treaty, nor ever ſpeake any thing to the prejudice of the publique Cauſe, yet if there could be a meanes found out to reconcile the juſt intreſt of the King and Kingdome, ſuch as becomes an honeſt and well affected man to appeare in, I am ſure I ſhould be very forward to ingage all my aſſiſtance, and ſhall thinke it an action may very well bee Iuſtified to God my King, and all honeſt men in which reſol<gap reason="illegible: bleedthrough" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>on I intend to live and dye.</p>
+                  <trailer>FINIS.</trailer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
